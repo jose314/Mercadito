@@ -11,7 +11,7 @@ export class CartService {
     {
       id: 1,
       name: 'Arroz Nicoya 10Lbs',
-      price: 12,
+      price: 250,
       image: 'assets/images/foods/Arroz.png',
       quantity: 1,
     },

@@ -10,7 +10,7 @@ export class FoodService {
       {
         id: 1,
         title: 'Arroz Nicoya 10Lb',
-        price: 12,
+        price: 250,
         image: 'assets/images/foods/Arroz.png',
         description:
           'Arroz 100% nicaragüense, cultivado y procesado en Beneficio Don Samuel, Sébaco, Nicaragua.',
@@ -18,7 +18,7 @@ export class FoodService {
       {
         id: 2,
         title: 'Aceite de Oliva',
-        price: 21,
+        price: 120,
         image: 'assets/images/foods/aceite-oliva.png',
         description:
           'Producto de origen español obtenido de la primera prensada de la aceituna, proceso que mantiene todas las propiedades de la aceituna intactas y proporciona el mayor grado de pureza.',
@@ -26,7 +26,7 @@ export class FoodService {
       {
         id: 3,
         title: 'Leche LALA',
-        price: 16,
+        price: 35,
         image: 'assets/images/foods/Leche.png',
         description:
           'Leche Lala Semidescremada Reducida en grasa 1LT',
@@ -34,7 +34,7 @@ export class FoodService {
       {
         id: 4,
         title: 'Mantequilla',
-        price: 20,
+        price: 120,
         image: 'assets/images/foods/mantequilla.png',
         description:
           'Mantequilla a base de aceite de soja, palmiste y aceite de palma, sal, palmitato de vitamina A.',
@@ -42,10 +42,10 @@ export class FoodService {
       {
         id: 5,
         title: 'Queso fresco 1Lb',
-        price: 10,
+        price: 58,
         image: 'assets/images/foods/queso-fresco.png',
         description:
-          'In addition to the freshet seafood, there are corn, cilantro, and tomatoes: their first became mayonnise, the second - cream, the third - spice tomato water.',
+          'Queso Fresco 100% Nicaraguense',
       },
     ];
   }

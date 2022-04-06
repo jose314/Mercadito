@@ -10,9 +10,9 @@ export class CartService {
   private items$ = new BehaviorSubject<CartItem[]>([
     {
       id: 1,
-      name: 'Sea Food',
+      name: 'Arroz Nicoya 10Lbs',
       price: 12,
-      image: 'assets/images/foods/seafood-dishes.png',
+      image: 'assets/images/foods/Arroz.png',
       quantity: 1,
     },
   ]);
